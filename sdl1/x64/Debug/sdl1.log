@@ -1,0 +1,2 @@
+﻿  hello_sdl.cpp
+c1xx : fatal error C1083: Cannot open source file: 'hello_sdl.cpp': No such file or directory
